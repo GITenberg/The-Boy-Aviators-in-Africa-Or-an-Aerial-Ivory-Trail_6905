@@ -1,0 +1,35 @@
+_repo: The-Boy-Aviators-in-Africa-Or-an-Aerial-Ivory-Trail_6905
+creator:
+  author:
+    agent_name: Goldfrap, John Henry
+    aliases:
+    - Dexter J. Forrester
+    - Lawton, Wilbur
+    - Lawton, Captain Wilbur
+    - Deering, Fremont B.
+    - West, Marvin
+    - Payson, Howard
+    birthdate: 1879
+    deathdate: 1917
+    gutenberg_agent_id: '1974'
+    url: http://www.gutenberg.org/2009/agents/1974
+    wikipedia: http://en.wikipedia.org/wiki/John_Henry_Goldfrap
+description: ''
+gutenberg_bookshelf:
+- Children's Book Series
+- Africa
+gutenberg_issued: '2004-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6905'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Flight -- Juvenile fiction'
+- !lcsh 'Aeronautics -- Juvenile fiction'
+- !lcsh 'Africa -- Juvenile fiction'
+title: The Boy Aviators in Africa; Or, an Aerial Ivory Trail
+url: http://www.gutenberg.org/ebooks/6905
